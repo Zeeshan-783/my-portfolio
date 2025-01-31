@@ -10,7 +10,6 @@ import { FaHome, FaProjectDiagram, FaQuoteLeft, FaEnvelope } from "react-icons/f
 export const navItems = [
     { name: "Home", link: "#home", icon: <FaHome className="text-white" /> },
     { name: "Projects", link: "#projects", icon: <FaProjectDiagram className="text-white" /> },
-    { name: "Testimonials", link: "#testimonials", icon: <FaQuoteLeft className="text-white" /> },
     { name: "Contact", link: "#contact", icon: <FaEnvelope className="text-white" /> },
   ];
 
