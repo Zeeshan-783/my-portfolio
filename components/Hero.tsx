@@ -29,7 +29,7 @@ const Hero = () => {
             <p className='text-center md:tracking-wider mb-4 text-sm mb:text-lg lg:text-2xl' 
             
             >Hi, I&apos;m Zeeshan, a React || React Native Developer based in Multan </p>
-            <a href="/about">
+            <a href="https://github.com/Zeeshan-783">
             <MagicButton
             icon={ <FaLocationArrow />} 
             title='Go to My Work'
